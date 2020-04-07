@@ -4,6 +4,7 @@
 
 Currently the repository contains:
 
-* `excel_to_csv.py`, a small script that exports all `.xls` files in the current directory to `.csv`, making them importable from flashcards programs such as Anki (which I totally recommend, because it is open source, free and multi-platform).
+* `learning_utils.py`: here I will gather all the main functions of the project.
+* `excel_to_csv.py`: a small script that exports all `.xls` files in the current directory to `.csv`, making them importable from flashcards programs such as Anki (which I totally recommend because it is open source, free and multi-platform).
 
 
